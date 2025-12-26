@@ -1,0 +1,81 @@
+#Week-12-22-to-12-26
+
+Work reports
+
+Employee Name: Thirupathinaidu K
+Role: Software Developer (.NET / C#)
+Week: Dec 22 – Dec 26, 2025
+🔹 Weekly Summary
+
+Continued practicing C# programming and .NET concepts
+
+Enhanced invoice module from previous week implementation
+
+Worked on code refactoring, unit testing, and performance optimization
+
+Improved async API usage and logging mechanisms
+
+Documented daily learning progress
+
+12/25 observed as Christmas Holiday
+
+📅 Daily Work Log
+Monday
+
+Total Hours: 8
+
+Code Refactoring & Review Problem Problem:
+Improve readability and maintainability of existing invoice module code.
+
+Work Done:
+
+Reviewed previous week’s invoice calculation and validation logic
+Refactored service-layer methods for better structure
+Removed duplicate code and improved naming conventions
+Updated GitHub repository with clean commits
+
+Tuesday
+
+Total Hours: 8
+
+Unit Testing Problem Problem:
+Ensure correctness of invoice logic through automated testing.
+
+Work Done:
+
+Created MSTest unit tests for invoice calculation and validation methods
+Tested edge cases such as zero amount, future invoice dates, and empty customer ID
+Fixed minor bugs identified during testing
+Improved overall code reliability
+
+Wednesday
+
+Total Hours: 8
+
+Performance Optimization Problem Problem:
+Improve performance of invoice-related database queries and APIs.
+
+Work Done:
+
+Optimized LINQ queries used for invoice filtering
+Reviewed async/await usage across invoice APIs
+Used AsNoTracking() for read-only queries
+Verified improved response times
+
+Thursday
+
+Status: Holiday – Christmas (12/25)
+
+Friday
+
+Total Hours: 8
+
+Logging & Documentation Problem Problem:
+Improve error tracking, logging clarity, and documentation.
+
+Work Done:
+
+Enhanced logging messages for better production debugging
+Reviewed exception handling best practices in .NET
+Updated internal documentation and code comments
+Continued learning advanced C# and real-time coding scenarios
